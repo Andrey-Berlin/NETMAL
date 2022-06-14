@@ -6,7 +6,7 @@ textarea {
 	width:70%;
 	height:calc(50vh - 50px);
 }
-input {
+/*input {
 /*	margin: 0 0 10px 0;*/
 	margin: 2% 0% 0% 0%;
   width:250px;
@@ -14,7 +14,7 @@ input {
 }
 #save {
 	float:right;
-}
+}*/
 #body background{
 
     
